@@ -1,0 +1,367 @@
+|--- CAGVWHO <= 93.50
+|   |--- MKMOTHWAYYR <= 45.00
+|   |   |--- CAFREWHO <= 92.00
+|   |   |   |--- class: 0
+|   |   |--- CAFREWHO >  92.00
+|   |   |   |--- CAFREWHO <= 96.00
+|   |   |   |   |--- CASURCVR <= 1.50
+|   |   |   |   |   |--- IRCD2YFU YOPBNUM <= 19973003.00
+|   |   |   |   |   |   |--- WHODASTOTSC <= 5.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- WHODASTOTSC >  5.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- IRCD2YFU YOPBNUM >  19973003.00
+|   |   |   |   |   |   |--- PREGAGE2 <= 2.50
+|   |   |   |   |   |   |   |--- IMPYDAYS <= 11.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- IMPYDAYS >  11.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- PREGAGE2 >  2.50
+|   |   |   |   |   |   |   |--- IRDSTNGD12 <= 52.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- IRDSTNGD12 >  52.00
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |--- CASURCVR >  1.50
+|   |   |   |   |   |--- SEXAGE <= 3.50
+|   |   |   |   |   |   |--- CG30EST <= 92.00
+|   |   |   |   |   |   |   |--- WRKSTATWK2 <= 2.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- WRKSTATWK2 >  2.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- CG30EST >  92.00
+|   |   |   |   |   |   |   |--- IRCD2YFU YOPBNUM <= 15035496.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- IRCD2YFU YOPBNUM >  15035496.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- SEXAGE >  3.50
+|   |   |   |   |   |   |--- SMIPPPY <= 0.13
+|   |   |   |   |   |   |   |--- SMIPPPY <= 0.04
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- SMIPPPY >  0.04
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- SMIPPPY >  0.13
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 <= 340255.00
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 >  340255.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |--- CAFREWHO >  96.00
+|   |   |   |   |--- RSKYFQDGR <= 2.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- RSKYFQDGR >  2.50
+|   |   |   |   |   |--- class: 1
+|   |--- MKMOTHWAYYR >  45.00
+|   |   |--- CAFREWHO <= 92.00
+|   |   |   |--- CASURCVR <= 89.50
+|   |   |   |   |--- class: 0
+|   |   |   |--- CASURCVR >  89.50
+|   |   |   |   |--- class: 0
+|   |   |--- CAFREWHO >  92.00
+|   |   |   |--- CASURCVR <= 98.50
+|   |   |   |   |--- IRDSTNGD12 <= 2.50
+|   |   |   |   |   |--- IRCD2YFU SMKYRLAST <= 19977004.00
+|   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- IRCD2YFU SMKYRLAST >  19977004.00
+|   |   |   |   |   |   |--- IMPYDAYS <= 42.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- IMPYDAYS >  42.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- IRDSTNGD12 >  2.50
+|   |   |   |   |   |--- PREGAGE2 <= 3.50
+|   |   |   |   |   |   |--- IRSMKLSSYFU WTPOUND2 <= 1954804.50
+|   |   |   |   |   |   |   |--- QUESTID2 IRSMKLSSYFU <= 73127088128.00
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- QUESTID2 IRSMKLSSYFU >  73127088128.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- IRSMKLSSYFU WTPOUND2 >  1954804.50
+|   |   |   |   |   |   |   |--- KSSLR6MAX <= 11.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- KSSLR6MAX >  11.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- PREGAGE2 >  3.50
+|   |   |   |   |   |   |--- RSKYFQDGR <= 2.50
+|   |   |   |   |   |   |   |--- QUESTID2 IRSMKLSSYFU <= 434596134912.00
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- QUESTID2 IRSMKLSSYFU >  434596134912.00
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- RSKYFQDGR >  2.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |--- CASURCVR >  98.50
+|   |   |   |   |--- PREGAGE2 <= 2.50
+|   |   |   |   |   |--- CG30EST <= 96.00
+|   |   |   |   |   |   |--- RSKYFQDGR <= 2.50
+|   |   |   |   |   |   |   |--- IRCD2YFU IRSMKLSSYFU <= 20191916.00
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- IRCD2YFU IRSMKLSSYFU >  20191916.00
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- RSKYFQDGR >  2.50
+|   |   |   |   |   |   |   |--- IRCD2YFU SMKYRLAST <= 99870036.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- IRCD2YFU SMKYRLAST >  99870036.00
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- CG30EST >  96.00
+|   |   |   |   |   |   |--- KSSLR6MONED <= 4.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- KSSLR6MONED >  4.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- PREGAGE2 >  2.50
+|   |   |   |   |   |--- IRCD2YFU SMKYRLAST <= 99965000.00
+|   |   |   |   |   |   |--- ILLYR <= 0.50
+|   |   |   |   |   |   |   |--- IRSMKLSSYFU WTPOUND2 <= 1854814.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- IRSMKLSSYFU WTPOUND2 >  1854814.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- ILLYR >  0.50
+|   |   |   |   |   |   |   |--- WRKSTATWK2 <= 1.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- WRKSTATWK2 >  1.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- IRCD2YFU SMKYRLAST >  99965000.00
+|   |   |   |   |   |   |--- class: 0
+|--- CAGVWHO >  93.50
+|   |--- CASURCVR <= 98.50
+|   |   |--- IMPHHLD <= 89.50
+|   |   |   |--- CASURCVR <= 1.50
+|   |   |   |   |--- KSSLR6MAX <= 9.50
+|   |   |   |   |   |--- CG30EST <= 98.00
+|   |   |   |   |   |   |--- KSSLR6MAX <= 6.50
+|   |   |   |   |   |   |   |--- WTPOUND2 SMKYRLAST <= 2193900.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- WTPOUND2 SMKYRLAST >  2193900.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- KSSLR6MAX >  6.50
+|   |   |   |   |   |   |   |--- SMIPPPY <= 0.01
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- SMIPPPY >  0.01
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- CG30EST >  98.00
+|   |   |   |   |   |   |--- WTPOUND2 SMKYRLAST <= 1904809.50
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 <= 331815.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 >  331815.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- WTPOUND2 SMKYRLAST >  1904809.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- KSSLR6MAX >  9.50
+|   |   |   |   |   |--- WTPOUND2 SMKYRLAST <= 2233884.50
+|   |   |   |   |   |   |--- RSKYFQDGR <= 2.50
+|   |   |   |   |   |   |   |--- KSSLR6MONED <= 9.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- KSSLR6MONED >  9.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- RSKYFQDGR >  2.50
+|   |   |   |   |   |   |   |--- IMPYDAYS <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- IMPYDAYS >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- WTPOUND2 SMKYRLAST >  2233884.50
+|   |   |   |   |   |   |--- CG30EST <= 96.00
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- CG30EST >  96.00
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |--- CASURCVR >  1.50
+|   |   |   |   |--- CASURCVR <= 96.00
+|   |   |   |   |   |--- KSSLR6MONED <= 2.50
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- KSSLR6MONED >  2.50
+|   |   |   |   |   |   |--- QUESTID2 IRSMKLSSYFU <= 57061136384.00
+|   |   |   |   |   |   |   |--- SMIPPPY <= 0.02
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- SMIPPPY >  0.02
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- QUESTID2 IRSMKLSSYFU >  57061136384.00
+|   |   |   |   |   |   |   |--- KSSLR6MONED <= 11.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- KSSLR6MONED >  11.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- CASURCVR >  96.00
+|   |   |   |   |   |--- IRCD2YFU IRSMKLSSYFU <= 60063994.00
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- IRCD2YFU IRSMKLSSYFU >  60063994.00
+|   |   |   |   |   |   |--- class: 1
+|   |   |--- IMPHHLD >  89.50
+|   |   |   |--- ILLYR <= 0.50
+|   |   |   |   |--- KSSLR6MONED <= 0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- KSSLR6MONED >  0.50
+|   |   |   |   |   |--- KSSLR6MAX <= 3.50
+|   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- KSSLR6MAX >  3.50
+|   |   |   |   |   |   |--- RSKYFQDGR <= 1.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- RSKYFQDGR >  1.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |--- ILLYR >  0.50
+|   |   |   |   |--- QUESTID2 IRSMKLSSYFU <= 89225961472.00
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- QUESTID2 IRSMKLSSYFU >  89225961472.00
+|   |   |   |   |   |--- QUESTID2 IRSMKLSSYFU <= 236104204288.00
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- QUESTID2 IRSMKLSSYFU >  236104204288.00
+|   |   |   |   |   |   |--- SMIPPPY <= 0.02
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- SMIPPPY >  0.02
+|   |   |   |   |   |   |   |--- class: 1
+|   |--- CASURCVR >  98.50
+|   |   |--- ILLYR <= 0.50
+|   |   |   |--- KSSLR6MONED <= 5.50
+|   |   |   |   |--- INHLYRLST SMKLSSYFU <= 99835068.00
+|   |   |   |   |   |--- CG30EST <= 98.50
+|   |   |   |   |   |   |--- KSSLR6MAX <= 1.50
+|   |   |   |   |   |   |   |--- ILLEMFLAG <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- ILLEMFLAG >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- KSSLR6MAX >  1.50
+|   |   |   |   |   |   |   |--- SEXAGE <= 4.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- SEXAGE >  4.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- CG30EST >  98.50
+|   |   |   |   |   |   |--- IRCD2YFU IRSMKLSSYFU <= 19853015.00
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- IRCD2YFU IRSMKLSSYFU >  19853015.00
+|   |   |   |   |   |   |   |--- RSKYFQDGR <= 2.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- RSKYFQDGR >  2.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- INHLYRLST SMKLSSYFU >  99835068.00
+|   |   |   |   |   |--- IRSMKLSSYFU INHLYRLST <= 19807029.00
+|   |   |   |   |   |   |--- IRSMKLSSYFU INHLYRLST <= 19729139.00
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- IRSMKLSSYFU INHLYRLST >  19729139.00
+|   |   |   |   |   |   |   |--- IRCD2YFU IRSMKLSSYFU <= 19772086.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- IRCD2YFU IRSMKLSSYFU >  19772086.00
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- IRSMKLSSYFU INHLYRLST >  19807029.00
+|   |   |   |   |   |   |--- CG30EST <= 98.50
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 <= 1224511.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 >  1224511.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- CG30EST >  98.50
+|   |   |   |   |   |   |   |--- IRCD2YFU SMKYRLAST <= 19985000.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- IRCD2YFU SMKYRLAST >  19985000.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |--- KSSLR6MONED >  5.50
+|   |   |   |   |--- CG30EST <= 96.00
+|   |   |   |   |   |--- KSSLR6MAX <= 8.50
+|   |   |   |   |   |   |--- ADPBNUM WRKLASTYR2 <= 20177934.00
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 <= 1519386.00
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 >  1519386.00
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- ADPBNUM WRKLASTYR2 >  20177934.00
+|   |   |   |   |   |   |   |--- ILLEMFLAG <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- ILLEMFLAG >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- KSSLR6MAX >  8.50
+|   |   |   |   |   |   |--- ILLEMFLAG <= 0.50
+|   |   |   |   |   |   |   |--- CG30EST <= 92.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- CG30EST >  92.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- ILLEMFLAG >  0.50
+|   |   |   |   |   |   |   |--- IRSMKLSSYFU INHLYRLST <= 99915008.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- IRSMKLSSYFU INHLYRLST >  99915008.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- CG30EST >  96.00
+|   |   |   |   |   |--- IRCD2YFU SMKYRLAST <= 20214885.00
+|   |   |   |   |   |   |--- IMPYDAYS <= 1.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- IMPYDAYS >  1.50
+|   |   |   |   |   |   |   |--- QUESTID2 IRSMKLSSYFU <= 250950483968.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- QUESTID2 IRSMKLSSYFU >  250950483968.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- IRCD2YFU SMKYRLAST >  20214885.00
+|   |   |   |   |   |   |--- class: 1
+|   |   |--- ILLYR >  0.50
+|   |   |   |--- RSKYFQDGR <= 2.50
+|   |   |   |   |--- CG30EST <= 95.50
+|   |   |   |   |   |--- IRSMKLSSYFU INHLYRLST <= 20222977.00
+|   |   |   |   |   |   |--- SMKAGLAST <= 35.50
+|   |   |   |   |   |   |   |--- QUESTID2 IRSMKLSSYFU <= 39756994560.00
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- QUESTID2 IRSMKLSSYFU >  39756994560.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- SMKAGLAST >  35.50
+|   |   |   |   |   |   |   |--- WTPOUND2 SMKYRLAST <= 1524227.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- WTPOUND2 SMKYRLAST >  1524227.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- IRSMKLSSYFU INHLYRLST >  20222977.00
+|   |   |   |   |   |   |--- KSSLR6MONED <= 3.50
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 <= 1404859.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 >  1404859.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- KSSLR6MONED >  3.50
+|   |   |   |   |   |   |   |--- KSSLR6MONED <= 14.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- KSSLR6MONED >  14.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- CG30EST >  95.50
+|   |   |   |   |   |--- ILLEMFLAG <= 0.50
+|   |   |   |   |   |   |--- KSSLR6MONED <= 1.50
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 <= 402800.00
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 >  402800.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- KSSLR6MONED >  1.50
+|   |   |   |   |   |   |   |--- KSSLR6MONED <= 6.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- KSSLR6MONED >  6.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- ILLEMFLAG >  0.50
+|   |   |   |   |   |   |--- IRCD2YFU YOPBNUM <= 20192980.00
+|   |   |   |   |   |   |   |--- IMPHHLD <= 1.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- IMPHHLD >  1.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- IRCD2YFU YOPBNUM >  20192980.00
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 <= 1588887.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 >  1588887.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |--- RSKYFQDGR >  2.50
+|   |   |   |   |--- CG30EST <= 96.00
+|   |   |   |   |   |--- KSSLR6MONED <= 3.50
+|   |   |   |   |   |   |--- ILLEMFLAG <= 0.50
+|   |   |   |   |   |   |   |--- WRKSTATWK2 <= 1.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- WRKSTATWK2 >  1.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- ILLEMFLAG >  0.50
+|   |   |   |   |   |   |   |--- WTPOUND2 SMKYRLAST <= 2023977.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- WTPOUND2 SMKYRLAST >  2023977.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- KSSLR6MONED >  3.50
+|   |   |   |   |   |   |--- IRCD2YFU YOPBNUM <= 99925008.00
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 <= 1949220.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- IRCD2YFU WTPOUND2 >  1949220.00
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- IRCD2YFU YOPBNUM >  99925008.00
+|   |   |   |   |   |   |   |--- KSSLR6MONED <= 13.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- KSSLR6MONED >  13.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- CG30EST >  96.00
+|   |   |   |   |   |--- IRCD2YFU SMKYRLAST <= 20064960.00
+|   |   |   |   |   |   |--- ADPBNUM WRKLASTYR2 <= 20220955.00
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- ADPBNUM WRKLASTYR2 >  20220955.00
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- IRCD2YFU SMKYRLAST >  20064960.00
+|   |   |   |   |   |   |--- SMIPPPY <= 0.01
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- SMIPPPY >  0.01
+|   |   |   |   |   |   |   |--- SEXAGE <= 4.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- SEXAGE >  4.50
+|   |   |   |   |   |   |   |   |--- class: 1
